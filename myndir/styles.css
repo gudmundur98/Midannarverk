@@ -1,0 +1,61 @@
+.mynd{
+    width: 80%;
+    margin: auto;
+}
+.mynd2{
+    width: 10%;
+    margin: auto;
+}
+img{
+    padding: 15px;
+    width: auto;
+}
+td, th {
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    text-align: left;
+    padding: 5px;
+    display: table-cell;
+    vertical-align: inherit;
+}
+.texti{
+    text-align: center;
+}
+.tafla{
+    font-family: Times New Roman;
+    font-size: 14pt;
+    width: 85%;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+.company{
+    border-collapse: collapse;
+    font-size: 12pt;
+    border-radius: 10px;
+    margin: auto;
+}
+.moreinfo{
+    border-collapse: collapse;
+    border-radius: 10px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+	font-family: gabriola;
+    font-size: 30pt;
+}
+h2{
+    font-family: Times New Roman;
+    font-size: 18pt;
+    padding: 10px;
+}
+h3{
+    font-family: Times New Roman;
+    font-weight: normal;
+    font-size: 14pt;
+    padding: 5px;
+}
+p{
+    text-align: center;
+}
