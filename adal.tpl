@@ -3,7 +3,7 @@
 <head>
     <title>Bensínstöðvar</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="/static/bensinstill.css">
+    <link rel="stylesheet" href="/static/bensin.css">
 </head>
 <body>
     <h1>Söluaðilar eldsneytis á Íslandi</h1>
