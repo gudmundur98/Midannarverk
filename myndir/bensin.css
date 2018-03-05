@@ -28,8 +28,8 @@ td, th {
     text-align: center;
 }
 .tafla{
-    font-family: Times New Roman;
-    font-size: 14pt;
+    font-family: ariel;
+    font-size: 16pt;
     width: 80%;
     border-radius: 10px;
     margin: auto;
@@ -37,7 +37,7 @@ td, th {
 }
 .company{
     border-collapse: collapse;
-    font-size: 12pt;
+    font-size: 14pt;
     border-radius: 10px;
     margin: auto;
 }
@@ -48,18 +48,18 @@ td, th {
 }
 h1{
     text-align: center;
-	font-family: gabriola;
-    font-size: 30pt;
+	font-family: ariel;
+    font-size: 32pt;
 }
 h2{
-    font-family: Times New Roman;
-    font-size: 18pt;
+    font-family: ariel;
+    font-size: 20pt;
     padding: 10px;
 }
 h3{
-    font-family: Times New Roman;
+    font-family: ariel;
     font-weight: normal;
-    font-size: 14pt;
+    font-size: 15pt;
     padding: 5px;
 }
 p{
