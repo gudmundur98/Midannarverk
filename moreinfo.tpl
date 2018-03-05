@@ -3,7 +3,7 @@
 <head>
     <title>Verð</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="/static/bensinstill.css">
+    <link rel="stylesheet" href="/static/bensin.css">
 </head>
 <body>
     <h1>Nánari Upplýsingar : </h1>
